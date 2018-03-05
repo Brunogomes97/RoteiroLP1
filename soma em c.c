@@ -3,7 +3,7 @@
 int main(){
 
 	int x = 5;
-	int y = 4;
+	int y = 10;
 	int soma = x+y;
 	
 	printf("%d",soma);
